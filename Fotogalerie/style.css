@@ -1,0 +1,12 @@
+.imgbox{
+    height: 150px;
+    margin: 10px;
+}
+
+.imgbox img {
+    object-fit: cover;
+}
+.imgcontainer{
+    display: flex;
+    flex-wrap: wrap;
+}
